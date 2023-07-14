@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyHotel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_me">Remember me</string>
+    <string name="current_location">Current Location</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="dont_have_an_account">don\'t have an account?</string>
+    <string name="search_hint">Search</string>
+    <string name="location_icon_description">Location</string>
+
+
+</resources>
